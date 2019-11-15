@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework3</string>
+    <string name="apikey">0c3405a1-9160-4dd0-ae05-c3e88d4a2f38</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
